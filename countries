@@ -1030,11 +1030,6 @@
         "ISO2": "AR"
     },
     {
-        "Country": "Netherlands Antilles",
-        "Slug": "netherlands-antilles",
-        "ISO2": "ANT"
-    },
-    {
         "Country": "Luxembourg",
         "Slug": "luxembourg",
         "ISO2": "LU"
