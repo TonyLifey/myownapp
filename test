@@ -1,31 +1,33 @@
-[
-    {
-        "Name": "Henos",
-        "Age": 15,
-        "Favourite": [
-            "Singer",
-            "Programmer",
-            "BodyBuilder"
-        ],
-        "Subjects": {
-            "English": false,
-            "Maths": true,
-            "Science": true,
-            "History": false
+{
+    "list": [
+        {
+            "Name": "Henos",
+            "Age": 15,
+            "Favourite": [
+                "Singer",
+                "Programmer",
+                "BodyBuilder"
+            ],
+            "Subjects": {
+                "English": false,
+                "Maths": true,
+                "Science": true,
+                "History": false
+            }
+        },
+        {
+            "Name": "Natnael",
+            "Age": 14,
+            "Favourite": [
+                "Gamer",
+                "Priest"
+            ],
+            "Subjects": {
+                "English": false,
+                "Maths": true,
+                "Science": false,
+                "History": true
+            }
         }
-    },
-    {
-        "Name": "Natnael",
-        "Age": 14,
-        "Favourite": [
-            "Gamer",
-            "Priest"
-        ],
-        "Subjects": {
-            "English": false,
-            "Maths": true,
-            "Science": false,
-            "History": true
-        }
-    }
-]
+    ]
+}
