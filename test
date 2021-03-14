@@ -1,0 +1,15 @@
+{
+    "Name": "Henos",
+    "Age": 15,
+    "Favourite": [
+        "Singer",
+        "Programmer",
+        "BodyBuilder"
+    ],
+    "Subjects": {
+        "English": false,
+        "Maths": true,
+        "Science": true,
+        "History": false
+    }
+}
